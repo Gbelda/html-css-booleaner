@@ -28,7 +28,7 @@ h1{
     color: #15a2fa;
 }
 
-#author_data{
+.grey_text{
     color: gray;
 }
 
@@ -81,4 +81,28 @@ th {
 
 #rowblue{
     background-color: #2eafff73;
+}
+
+.external_link{
+    width: 200px;
+}
+
+.lorem{
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+}
+
+#lorem_mac{
+    background-image: url(./img/monitor.jpg);
+    background-size: contain;
+    width: 200px;
+    height: 133.33px;  
+}
+
+#lorem_graph{
+    background-image: url(./img/graph.jpg);
+    background-size: contain;
+    width: 200px;
+    height: 133.33px;  
 }
