@@ -1,5 +1,5 @@
 body {
-    width: 80%;
+    width: 70%;
     margin: auto;
 }
 
@@ -7,10 +7,30 @@ body {
     background-image: url("./img/pattern.png");
     background-repeat: repeat;
     background-size: 275px 175px;
-    background-color: hsl(216, 81%, 61%);
+    background-color: #15a2fa;
     height: 20%;
 }
 
 #logo {
     padding-top: 40px;
+}
+
+h1{
+    margin-bottom: 0%;
+}
+.author{
+    margin: 0%;
+    padding-top: 0%;
+}
+
+#author_name{
+    color: #15a2fa;
+}
+
+#author_data{
+    color: gray;
+}
+
+#date{
+    font-size: 0.70rem;
 }
