@@ -14,6 +14,7 @@ body {
 
 #logo {
     padding-top: 40px;
+    width: 20%;
 }
 
 h1{
@@ -79,7 +80,7 @@ th {
     margin-right: 20%;
 }
 
-#rowblue{
+.rowblue{
     background-color: #2eafff73;
 }
 
