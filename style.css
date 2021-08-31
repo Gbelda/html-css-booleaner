@@ -1,12 +1,13 @@
 body {
-    width: 70%;
+    width: 800px;
+    height: 1546px;
     margin: auto;
 }
 
 #banner {
     background-image: url("./img/pattern.png");
     background-repeat: repeat;
-    background-size: 275px 175px;
+    background-size: 350px 170px;
     background-color: #15a2fa;
     height: 20%;
 }
@@ -33,4 +34,24 @@ h1{
 
 #date{
     font-size: 0.70rem;
+    margin-bottom: 20px;
+}
+
+.Tim{
+    width: 390px;
+}
+
+#Tim_speech{
+    width: 420px;
+    height: 280px;
+}
+
+#Tim_portrait{
+    width: 370px;
+    height: 280px;
+}
+
+.description{
+    margin: 0%;
+    font-size: 0.75rem;
 }
