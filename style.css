@@ -98,12 +98,16 @@ th {
     background-image: url(./img/monitor.jpg);
     background-size: contain;
     width: 200px;
-    height: 133.33px;  
+    height: 133.33px;
+    padding-top: 7px;
+    padding-left: 7px;
 }
 
 #lorem_graph{
     background-image: url(./img/graph.jpg);
     background-size: contain;
     width: 200px;
-    height: 133.33px;  
+    height: 133.33px;
+    padding-top: 7px;
+    padding-left: 7px;
 }
