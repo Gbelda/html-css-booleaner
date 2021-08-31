@@ -60,6 +60,25 @@ ul{
     padding: 19px;
 }
 
-#highlight{
+.highlight{
     background-color: yellow;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+
+}
+
+th {
+    padding: 0%;
+    text-align: left;
+    background-color: #15a2fa;;
+    color: white;
+    margin-right: 20%;
+}
+
+#rowblue{
+    background-color: #2eafff73;
 }
